@@ -36,24 +36,29 @@ function Footer() {
             <div className="footer-links">
                 <div className="footer-link-wrapper">
                     <div className="footer-link-items">
+                        <h2>Galeria</h2>
+                        <Link to="/galeria">Fotografía de nuestro trabajo</Link>
+                    </div>
+                    <div className="footer-link-items">
                         <h2>¿Quiénes somos?</h2>
                         <Link to="/sign-up"></Link>
                         <Link to="/">Melis Gustavo</Link>
-                        <Link to="/">¿Donde iniciamos?</Link>
+                        <Link to="/">Nuestros inicios</Link>
+
+                    </div>
+                    
+                </div>
+                <div className="footer-link-wrapper">
+                    <div className="footer-link-items">
+                        <h2>¿Cómo trabajamos?</h2>
+                        <Link to="/">Contacto y presupuesto</Link>
+                        <Link to="/">Contrato legal</Link>
+                        <Link to="/">¡Empezamos a construir!</Link>
 
                     </div>
                     <div className="footer-link-items">
                         <h2>Contactanos</h2>
                         <Link to="/">Formulario</Link>
-                    </div>
-                </div>
-                <div className="footer-link-wrapper">
-
-
-                    <div className="footer-link-items">
-                        <h2>Redes Sociales</h2>
-                        <Link to="/">Instagram</Link>
-                        <Link to="/">Facebook</Link>
                     </div>
                 </div>
             </div>
@@ -65,7 +70,7 @@ function Footer() {
 
             </Link>
                     </div>
-                    <small className="website-rights">M.G. CONSTRUCCIONES © 2021</small>
+                    <small className="website-rights">M.G. CONSTRUCCIONES © 2021 || <a href="https://www.arrecode.com">arre[code]</a></small>
                     <div className="social-icons">
                         <Link
                             className="social-icon-link"
@@ -111,6 +116,7 @@ function Footer() {
                         </Link>
                     </div>
                 </div>
+
             </section>
         </div>
     );

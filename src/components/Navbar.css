@@ -1,5 +1,5 @@
 .navbar {
-    background: #ff6000;
+    background: #FFBD00;
     height: auto;
     display: flex;
     justify-content: center;
@@ -8,6 +8,13 @@
     position: sticky;
     top: 0;
     z-index: 99999;
+}
+
+.nombreNavbar {
+    font-size: 30px;
+    line-height: 1.1;
+    font-weight: 600;
+    color: #f7f8fa;
 }
 
 .navbar-logo:hover {
@@ -134,7 +141,7 @@
         justify-content: center;
     }
     .nav-menu.activeMobile {
-        background: #ff6000;
+        background: #FFBD00;
         left: 0;
         opacity: 1;
         transition: all 0.6s ease;

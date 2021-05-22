@@ -18,8 +18,8 @@ function Formulario() {
             <button className="btn btn--primary btn--wide orange">Contáctanos</button>
 
             <div className="flex-container space-between">
-                <a href=""><AiOutlineWhatsApp size={20}/></a>
-                <a href=""><MdEmail size={20}/></a>
+                <a href=""><AiOutlineWhatsApp size={50}/></a>
+                <a href=""><MdEmail size={50}/></a>
 
             </div>
         </div>

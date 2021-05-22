@@ -64,7 +64,7 @@ const GalleryWithThumbnails = () => {
               <a href={img01} >
                 <img
                   src={img01}
-                  alt=""
+                  alt="Edificio en construccion"
                 />
               </a>
             </div>
