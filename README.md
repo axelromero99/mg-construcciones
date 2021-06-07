@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://mg-construcciones.herokuapp.com/">MG Construcciones</a><br>
+    </b>
+ :collision:On development ReactJS website for a construction enterprise:collision:<br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</h1>
 
-## Available Scripts
 
-In the project directory, you can run:
+### Live Demos 
 
-### `npm start`
+* [MG CONSTRUCCIONES on heroku](https://mg-construcciones.herokuapp.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Features 📋
+* Use of React Animations
+* Use of React icons
+* Use of React Bootstrap
+* Use of React Animate-on-scroll
+* Use of animate.css library
+* Use of a React Gallery library (react-awesome-lightbox)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## Starting 🚀
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### Pre-requisites 📋
+1. Clone or download the repository 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/axelromero99/mg-construcciones.git
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+2. Change the working directory
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+cd mg-construcciones
+```
 
-### `npm run eject`
+🌟 You have all you need! 🌟
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Developed with 🛠️
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+* [ReactJS](https://docs.github.com/en/rest)
+* [React Animations](https://www.npmjs.com/package/react-animations)
+* [React Icons](https://react-icons.github.io/react-icons/)
+* [React Bootstrap](https://react-bootstrap.github.io/)
+* [React animate-on-scroll](https://www.npmjs.com/package/react-animate-on-scroll)
+* [Animate CSS](https://www.npmjs.com/package/react-animated-css)
+* [React Gallery](https://www.npmjs.com/package/react-awesome-lightbox)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Contribute 🖇️
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Please, feel free to submitting pull requests to us.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Author ✒️
 
-### Code Splitting
+**Axel René Romero Esquivel [ arre[code] ]** - *Fullstack Web and Python Developer* - 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+* [Web](https://www.arrecode.com) 
+* [LinkedIn](https://www.linkedin.com/in/arrecode/)
+* [Github](https://github.com/axelromero99)
 
-### Analyzing the Bundle Size
+**Enzo Federico Camera** - *UI & UX Designer Jr* - 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Express your gratitude 🎁
 
-### Making a Progressive Web App
+* Tell others about this project 📢
+* Invite me a [Cafecito](https://cafecito.app/arrecode)
+* I am already grateful that you have seen my project!
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+Developed with ❤️ by [Axel René Romero Esquivel [ arre[code] ]](https:www.arrecode.com) 
